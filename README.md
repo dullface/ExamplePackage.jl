@@ -1,6 +1,6 @@
 # ExamplePackage
 
-[![Build Status](https://travis-ci.org/ChrisRackauckas/ExamplePackage.jl.svg?branch=master)](https://travis-ci.org/ChrisRackauckas/ExamplePackage.jl)
+[![Build Status](https://travis-ci.org/dullface/ExamplePackage.jl.svg?branch=master)](https://travis-ci.org/dullface/ExamplePackage.jl)
 [![Build status](https://ci.appveyor.com/api/projects/status/urovduebcef3cboi?svg=true)](https://ci.appveyor.com/project/dullface/examplepackage-jl)
 [![Coverage Status](https://coveralls.io/repos/github/dullface/ExamplePackage.jl/badge.svg?branch=master)](https://coveralls.io/github/dullface/ExamplePackage.jl?branch=master)
 
