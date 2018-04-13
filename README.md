@@ -1,8 +1,8 @@
 # ExamplePackage
 
 [![Build Status](https://travis-ci.org/ChrisRackauckas/ExamplePackage.jl.svg?branch=master)](https://travis-ci.org/ChrisRackauckas/ExamplePackage.jl)
-[![Build status](https://ci.appveyor.com/api/projects/status/9iuvdt0j0mw6au0k?svg=true)](https://ci.appveyor.com/project/ChrisRackauckas/examplepackage-jl)
-[![Coverage Status](https://coveralls.io/repos/github/ChrisRackauckas/ExamplePackage.jl/badge.svg?branch=master)](https://coveralls.io/github/ChrisRackauckas/ExamplePackage.jl?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/urovduebcef3cboi?svg=true)](https://ci.appveyor.com/project/dullface/examplepackage-jl)
+[![Coverage Status](https://coveralls.io/repos/github/dullface/ExamplePackage.jl/badge.svg?branch=master)](https://coveralls.io/github/dullface/ExamplePackage.jl?branch=master)
 
 This is an example Julia repository. It was generated using:
 
